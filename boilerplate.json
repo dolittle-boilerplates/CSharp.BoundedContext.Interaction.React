@@ -1,8 +1,8 @@
 {
-    "name": "Veracity Bounded Context Adornment",
+    "name": "Bounded Context React Interaction Adornment",
     "language": "csharp",
     "type": "boundedContext-adornment",
     "parent": "https://github.com/dolittle-boilerplates/CSharp.BoundedContext",
-    "tags": ["veracity"],
+    "tags": ["react", "interaction"],
     "description": "This is an adornment to a bounded context"
  }
