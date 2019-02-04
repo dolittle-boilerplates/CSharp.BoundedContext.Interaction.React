@@ -1,6 +1,3 @@
 {
-  "extends": "./node_modules/@dolittle/build/.babelrc",
-  "presets": [
-    "@babel/preset-react"
-  ]
+   "extends": "./node_modules/@dolittle/build.react/.babelrc"
 }
