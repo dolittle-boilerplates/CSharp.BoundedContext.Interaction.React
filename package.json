@@ -1,14 +1,15 @@
 {
-  "name": "@dolittle/boilerplates.bounded-context.csharp.interaction.react",
+  "name": "@dolittle/boilerplates.interaction.web.js.react",
   "version": "1.0.0",
   "description": "Standard react interaction layer boilerplate",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dolittle-boilerplates/CSharp.BoundedContext.Interaction.React.git"
   },
-  "keywords": [
-    "dolittle", "boilerplates", "bounded-context", "interaction-layer", "react"
-  ],
+  "keywords": ["dolittle", "boilerplates", "interaction-layer"],
+  "dolittle": {
+    "tooling": "5"
+  },
   "author": "Dolittle",
   "license": "MIT",
   "bugs": {
