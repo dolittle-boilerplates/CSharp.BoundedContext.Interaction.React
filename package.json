@@ -1,6 +1,6 @@
 {
   "name": "@dolittle/boilerplates.interaction.web.js.react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standard react interaction layer boilerplate",
   "repository": {
     "type": "git",
